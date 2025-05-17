@@ -2,7 +2,7 @@
 
 A React-based flashcard application that implements spaced repetition learning to help users memorize information more effectively. Built for a hackathon submission.
 
-![Spaced Repetition Flashcard Engine]([(https://spaced-repetition-flashcard-engine.vercel.app/flashcards)])
+https://spaced-repetition-flashcard-engine.vercel.app/flashcards
 
 ## Features
 
