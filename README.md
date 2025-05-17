@@ -2,6 +2,8 @@
 
 A React-based flashcard application that implements spaced repetition learning to help users memorize information more effectively. Built for a hackathon submission.
 
+![Spaced Repetition Flashcard Engine](https://via.placeholder.com/800x400?text=Spaced+Repetition+Flashcard+Engine)
+
 ## Features
 
 - Interactive flashcard interface with smooth flip animations
@@ -19,6 +21,35 @@ A React-based flashcard application that implements spaced repetition learning t
 - Tailwind CSS
 - Framer Motion
 - Local Storage API
+
+## Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/spaced-repetition-flashcard-engine.git
+cd spaced-repetition-flashcard-engine
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
+
+## Usage
+
+- Click on a card to flip it and see the answer
+- Use the buttons to mark your knowledge level for each card
+- Track your progress with achievements and statistics
+- Your progress is automatically saved in your browser's local storage
+
+## License
+
+MIT
 
 ## Setup
 
